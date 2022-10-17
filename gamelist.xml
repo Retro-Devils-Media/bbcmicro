@@ -1,0 +1,1102 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Exile (Europe).zip</path>
+		<name>Exile (Europe)</name>
+		<image>./boxart/Exile (Europe).png</image>
+		<marquee>./wheel/Exile (Europe).png</marquee>
+		<video>./snap/Exile (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jetset Willy II (Europe).zip</path>
+		<name>Jetset Willy II (Europe)</name>
+		<image>./boxart/Jetset Willy II (Europe).png</image>
+		<marquee>./wheel/Jetset Willy II (Europe).png</marquee>
+		<video>./snap/Jetset Willy II (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Road Runner (Europe).zip</path>
+		<name>Road Runner (Europe)</name>
+		<image>./boxart/Road Runner (Europe).png</image>
+		<marquee>./wheel/Road Runner (Europe).png</marquee>
+		<video>./snap/Road Runner (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Klax (Europe).zip</path>
+		<name>Klax (Europe)</name>
+		<image>./boxart/Klax (Europe).png</image>
+		<marquee>./wheel/Klax (Europe).png</marquee>
+		<video>./snap/Klax (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Colony (Europe) (Unl).zip</path>
+		<name>Colony (Europe) (Unl)</name>
+		<image>./boxart/Colony (Europe) (Unl).png</image>
+		<marquee>./wheel/Colony (Europe) (Unl).png</marquee>
+		<video>./snap/Colony (Europe) (Unl).mp4</video>
+	</game>
+	<game>
+		<path>./License to Kill (Europe).zip</path>
+		<name>License to Kill (Europe)</name>
+		<image>./boxart/License to Kill (Europe).png</image>
+		<marquee>./wheel/License to Kill (Europe).png</marquee>
+		<video>./snap/License to Kill (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Way of the Exploding Fist, The (Europe).zip</path>
+		<name>Way of the Exploding Fist, The (Europe)</name>
+		<image>./boxart/Way of the Exploding Fist, The (Europe).png</image>
+		<marquee>./wheel/Way of the Exploding Fist, The (Europe).png</marquee>
+		<video>./snap/Way of the Exploding Fist, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mined Out (Europe).zip</path>
+		<name>Mined Out (Europe)</name>
+		<image>./boxart/Mined Out (Europe).png</image>
+		<marquee>./wheel/Mined Out (Europe).png</marquee>
+		<video>./snap/Mined Out (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Barbarian (Europe).zip</path>
+		<name>Barbarian (Europe)</name>
+		<image>./boxart/Barbarian (Europe).png</image>
+		<marquee>./wheel/Barbarian (Europe).png</marquee>
+		<video>./snap/Barbarian (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Confuzion (Europe).zip</path>
+		<name>Confuzion (Europe)</name>
+		<image>./boxart/Confuzion (Europe).png</image>
+		<marquee>./wheel/Confuzion (Europe).png</marquee>
+		<video>./snap/Confuzion (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Nemesis (Europe).zip</path>
+		<name>Nemesis (Europe)</name>
+		<image>./boxart/Nemesis (Europe).png</image>
+		<marquee>./wheel/Nemesis (Europe).png</marquee>
+		<video>./snap/Nemesis (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Moon Buggy (Europe).zip</path>
+		<name>Moon Buggy (Europe)</name>
+		<image>./boxart/Moon Buggy (Europe).png</image>
+		<marquee>./wheel/Moon Buggy (Europe).png</marquee>
+		<video>./snap/Moon Buggy (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Combat Lynx (Europe).zip</path>
+		<name>Combat Lynx (Europe)</name>
+		<image>./boxart/Combat Lynx (Europe).png</image>
+		<marquee>./wheel/Combat Lynx (Europe).png</marquee>
+		<video>./snap/Combat Lynx (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Impact! (Europe).zip</path>
+		<name>Impact! (Europe)</name>
+		<image>./boxart/Impact! (Europe).png</image>
+		<marquee>./wheel/Impact! (Europe).png</marquee>
+		<video>./snap/Impact! (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Nightshade (Europe).zip</path>
+		<name>Nightshade (Europe)</name>
+		<image>./boxart/Nightshade (Europe).png</image>
+		<marquee>./wheel/Nightshade (Europe).png</marquee>
+		<video>./snap/Nightshade (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Uridium (Europe).zip</path>
+		<name>Uridium (Europe)</name>
+		<image>./boxart/Uridium (Europe).png</image>
+		<marquee>./wheel/Uridium (Europe).png</marquee>
+		<video>./snap/Uridium (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pipe Mania (Europe).zip</path>
+		<name>Pipe Mania (Europe)</name>
+		<image>./boxart/Pipe Mania (Europe).png</image>
+		<marquee>./wheel/Pipe Mania (Europe).png</marquee>
+		<video>./snap/Pipe Mania (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bruce Lee (Europe).zip</path>
+		<name>Bruce Lee (Europe)</name>
+		<image>./boxart/Bruce Lee (Europe).png</image>
+		<marquee>./wheel/Bruce Lee (Europe).png</marquee>
+		<video>./snap/Bruce Lee (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Future Shock (Europe).zip</path>
+		<name>Future Shock (Europe)</name>
+		<image>./boxart/Future Shock (Europe).png</image>
+		<marquee>./wheel/Future Shock (Europe).png</marquee>
+		<video>./snap/Future Shock (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Star Quake (Europe).zip</path>
+		<name>Star Quake (Europe)</name>
+		<image>./boxart/Star Quake (Europe).png</image>
+		<marquee>./wheel/Star Quake (Europe).png</marquee>
+		<video>./snap/Star Quake (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tetris (Europe).zip</path>
+		<name>Tetris (Europe)</name>
+		<image>./boxart/Tetris (Europe).png</image>
+		<marquee>./wheel/Tetris (Europe).png</marquee>
+		<video>./snap/Tetris (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Rocky (Europe).zip</path>
+		<name>Rocky (Europe)</name>
+		<image>./boxart/Rocky (Europe).png</image>
+		<marquee>./wheel/Rocky (Europe).png</marquee>
+		<video>./snap/Rocky (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./City Defence (Europe).zip</path>
+		<name>City Defence (Europe)</name>
+		<image>./boxart/City Defence (Europe).png</image>
+		<marquee>./wheel/City Defence (Europe).png</marquee>
+		<video>./snap/City Defence (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Beach-Head (Europe).zip</path>
+		<name>Beach-Head (Europe)</name>
+		<image>./boxart/Beach-Head (Europe).png</image>
+		<marquee>./wheel/Beach-Head (Europe).png</marquee>
+		<video>./snap/Beach-Head (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Labyrinth (Europe).zip</path>
+		<name>Labyrinth (Europe)</name>
+		<image>./boxart/Labyrinth (Europe).png</image>
+		<marquee>./wheel/Labyrinth (Europe).png</marquee>
+		<video>./snap/Labyrinth (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Maze (Europe).zip</path>
+		<name>Maze (Europe)</name>
+		<image>./boxart/Maze (Europe).png</image>
+		<marquee>./wheel/Maze (Europe).png</marquee>
+		<video>./snap/Maze (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Castle Quest (Europe).zip</path>
+		<name>Castle Quest (Europe)</name>
+		<image>./boxart/Castle Quest (Europe).png</image>
+		<marquee>./wheel/Castle Quest (Europe).png</marquee>
+		<video>./snap/Castle Quest (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Evening Star (Europe).zip</path>
+		<name>Evening Star (Europe)</name>
+		<image>./boxart/Evening Star (Europe).png</image>
+		<marquee>./wheel/Evening Star (Europe).png</marquee>
+		<video>./snap/Evening Star (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bug Blaster (Europe).zip</path>
+		<name>Bug Blaster (Europe)</name>
+		<image>./boxart/Bug Blaster (Europe).png</image>
+		<marquee>./wheel/Bug Blaster (Europe).png</marquee>
+		<video>./snap/Bug Blaster (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Football Manager (Europe).zip</path>
+		<name>Football Manager (Europe)</name>
+		<image>./boxart/Football Manager (Europe).png</image>
+		<marquee>./wheel/Football Manager (Europe).png</marquee>
+		<video>./snap/Football Manager (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Loderunner (Europe).zip</path>
+		<name>Loderunner (Europe)</name>
+		<image>./boxart/Loderunner (Europe).png</image>
+		<marquee>./wheel/Loderunner (Europe).png</marquee>
+		<video>./snap/Loderunner (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Helter Skelter (Europe).zip</path>
+		<name>Helter Skelter (Europe)</name>
+		<image>./boxart/Helter Skelter (Europe).png</image>
+		<marquee>./wheel/Helter Skelter (Europe).png</marquee>
+		<video>./snap/Helter Skelter (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tapper (Europe).zip</path>
+		<name>Tapper (Europe)</name>
+		<image>./boxart/Tapper (Europe).png</image>
+		<marquee>./wheel/Tapper (Europe).png</marquee>
+		<video>./snap/Tapper (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./James Bond 007 - The Living Daylights (Europe).zip</path>
+		<name>James Bond 007 - The Living Daylights (Europe)</name>
+		<image>./boxart/James Bond 007 - The Living Daylights (Europe).png</image>
+		<marquee>./wheel/James Bond 007 - The Living Daylights (Europe).png</marquee>
+		<video>./snap/James Bond 007 - The Living Daylights (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Summer Olympiad (Europe).zip</path>
+		<name>Summer Olympiad (Europe)</name>
+		<image>./boxart/Summer Olympiad (Europe).png</image>
+		<marquee>./wheel/Summer Olympiad (Europe).png</marquee>
+		<video>./snap/Summer Olympiad (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Geoff Capes Strong Man (Europe).zip</path>
+		<name>Geoff Capes Strong Man (Europe)</name>
+		<image>./boxart/Geoff Capes Strong Man (Europe).png</image>
+		<marquee>./wheel/Geoff Capes Strong Man (Europe).png</marquee>
+		<video>./snap/Geoff Capes Strong Man (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Subway Vigilante (Europe).zip</path>
+		<name>Subway Vigilante (Europe)</name>
+		<image>./boxart/Subway Vigilante (Europe).png</image>
+		<marquee>./wheel/Subway Vigilante (Europe).png</marquee>
+		<video>./snap/Subway Vigilante (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Frogger (A&F Software) (Europe).zip</path>
+		<name>Frogger (A&F Software) (Europe)</name>
+		<image>./boxart/Frogger (A&F Software) (Europe).png</image>
+		<marquee>./wheel/Frogger (A&F Software) (Europe).png</marquee>
+		<video>./snap/Frogger (A&F Software) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dead or Alive (Europe).zip</path>
+		<name>Dead or Alive (Europe)</name>
+		<image>./boxart/Dead or Alive (Europe).png</image>
+		<marquee>./wheel/Dead or Alive (Europe).png</marquee>
+		<video>./snap/Dead or Alive (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chess (Micro Power) (Europe).zip</path>
+		<name>Chess (Micro Power) (Europe)</name>
+		<image>./boxart/Chess (Micro Power) (Europe).png</image>
+		<marquee>./wheel/Chess (Micro Power) (Europe).png</marquee>
+		<video>./snap/Chess (Micro Power) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Granny's Garden (Europe).zip</path>
+		<name>Granny's Garden (Europe)</name>
+		<image>./boxart/Granny's Garden (Europe).png</image>
+		<marquee>./wheel/Granny's Garden (Europe).png</marquee>
+		<video>./snap/Granny's Garden (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Crystal Castles (Europe).zip</path>
+		<name>Crystal Castles (Europe)</name>
+		<image>./boxart/Crystal Castles (Europe).png</image>
+		<marquee>./wheel/Crystal Castles (Europe).png</marquee>
+		<video>./snap/Crystal Castles (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Boxer (Europe).zip</path>
+		<name>Boxer (Europe)</name>
+		<image>./boxart/Boxer (Europe).png</image>
+		<marquee>./wheel/Boxer (Europe).png</marquee>
+		<video>./snap/Boxer (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Krakout! (Europe).zip</path>
+		<name>Krakout! (Europe)</name>
+		<image>./boxart/Krakout! (Europe).png</image>
+		<marquee>./wheel/Krakout! (Europe).png</marquee>
+		<video>./snap/Krakout! (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Psycastria (Europe).zip</path>
+		<name>Psycastria (Europe)</name>
+		<image>./boxart/Psycastria (Europe).png</image>
+		<marquee>./wheel/Psycastria (Europe).png</marquee>
+		<video>./snap/Psycastria (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Spy vs Spy (Europe).zip</path>
+		<name>Spy vs Spy (Europe)</name>
+		<image>./boxart/Spy vs Spy (Europe).png</image>
+		<marquee>./wheel/Spy vs Spy (Europe).png</marquee>
+		<video>./snap/Spy vs Spy (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Electro Freddy (Europe).zip</path>
+		<name>Electro Freddy (Europe)</name>
+		<image>./boxart/Electro Freddy (Europe).png</image>
+		<marquee>./wheel/Electro Freddy (Europe).png</marquee>
+		<video>./snap/Electro Freddy (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Castle Assault (Europe).zip</path>
+		<name>Castle Assault (Europe)</name>
+		<image>./boxart/Castle Assault (Europe).png</image>
+		<marquee>./wheel/Castle Assault (Europe).png</marquee>
+		<video>./snap/Castle Assault (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Repton (Europe).zip</path>
+		<name>Repton (Europe)</name>
+		<image>./boxart/Repton (Europe).png</image>
+		<marquee>./wheel/Repton (Europe).png</marquee>
+		<video>./snap/Repton (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Predator (Europe).zip</path>
+		<name>Predator (Europe)</name>
+		<image>./boxart/Predator (Europe).png</image>
+		<marquee>./wheel/Predator (Europe).png</marquee>
+		<video>./snap/Predator (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars - The Empire Strikes Back (Europe).zip</path>
+		<name>Star Wars - The Empire Strikes Back (Europe)</name>
+		<image>./boxart/Star Wars - The Empire Strikes Back (Europe).png</image>
+		<marquee>./wheel/Star Wars - The Empire Strikes Back (Europe).png</marquee>
+		<video>./snap/Star Wars - The Empire Strikes Back (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tempest (Europe).zip</path>
+		<name>Tempest (Europe)</name>
+		<image>./boxart/Tempest (Europe).png</image>
+		<marquee>./wheel/Tempest (Europe).png</marquee>
+		<video>./snap/Tempest (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Barbarian II (Europe).zip</path>
+		<name>Barbarian II (Europe)</name>
+		<image>./boxart/Barbarian II (Europe).png</image>
+		<marquee>./wheel/Barbarian II (Europe).png</marquee>
+		<video>./snap/Barbarian II (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Hunchback (Europe).zip</path>
+		<name>Hunchback (Europe)</name>
+		<image>./boxart/Hunchback (Europe).png</image>
+		<marquee>./wheel/Hunchback (Europe).png</marquee>
+		<video>./snap/Hunchback (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Emlyn Hughes Arcade Quiz (Europe).zip</path>
+		<name>Emlyn Hughes Arcade Quiz (Europe)</name>
+		<image>./boxart/Emlyn Hughes Arcade Quiz (Europe).png</image>
+		<marquee>./wheel/Emlyn Hughes Arcade Quiz (Europe).png</marquee>
+		<video>./snap/Emlyn Hughes Arcade Quiz (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mikie (Europe).zip</path>
+		<name>Mikie (Europe)</name>
+		<image>./boxart/Mikie (Europe).png</image>
+		<marquee>./wheel/Mikie (Europe).png</marquee>
+		<video>./snap/Mikie (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Scapeghost (Europe).zip</path>
+		<name>Scapeghost (Europe)</name>
+		<image>./boxart/Scapeghost (Europe).png</image>
+		<marquee>./wheel/Scapeghost (Europe).png</marquee>
+		<video>./snap/Scapeghost (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Cosmic Cruiser (Europe).zip</path>
+		<name>Cosmic Cruiser (Europe)</name>
+		<image>./boxart/Cosmic Cruiser (Europe).png</image>
+		<marquee>./wheel/Cosmic Cruiser (Europe).png</marquee>
+		<video>./snap/Cosmic Cruiser (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Last Ninja, The (Europe).zip</path>
+		<name>Last Ninja, The (Europe)</name>
+		<image>./boxart/Last Ninja, The (Europe).png</image>
+		<marquee>./wheel/Last Ninja, The (Europe).png</marquee>
+		<video>./snap/Last Ninja, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Paperboy (Europe).zip</path>
+		<name>Paperboy (Europe)</name>
+		<image>./boxart/Paperboy (Europe).png</image>
+		<marquee>./wheel/Paperboy (Europe).png</marquee>
+		<video>./snap/Paperboy (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bounty Bob Strikes Back (Europe).zip</path>
+		<name>Bounty Bob Strikes Back (Europe)</name>
+		<image>./boxart/Bounty Bob Strikes Back (Europe).png</image>
+		<marquee>./wheel/Bounty Bob Strikes Back (Europe).png</marquee>
+		<video>./snap/Bounty Bob Strikes Back (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Growing Pains of Adrian Mole, The (Europe).zip</path>
+		<name>Growing Pains of Adrian Mole, The (Europe)</name>
+		<image>./boxart/Growing Pains of Adrian Mole, The (Europe).png</image>
+		<marquee>./wheel/Growing Pains of Adrian Mole, The (Europe).png</marquee>
+		<video>./snap/Growing Pains of Adrian Mole, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Moon Cresta (Europe).zip</path>
+		<name>Moon Cresta (Europe)</name>
+		<image>./boxart/Moon Cresta (Europe).png</image>
+		<marquee>./wheel/Moon Cresta (Europe).png</marquee>
+		<video>./snap/Moon Cresta (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Birds of Prey (Europe).zip</path>
+		<name>Birds of Prey (Europe)</name>
+		<image>./boxart/Birds of Prey (Europe).png</image>
+		<marquee>./wheel/Birds of Prey (Europe).png</marquee>
+		<video>./snap/Birds of Prey (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sentinel (Europe).zip</path>
+		<name>Sentinel (Europe)</name>
+		<image>./boxart/Sentinel (Europe).png</image>
+		<marquee>./wheel/Sentinel (Europe).png</marquee>
+		<video>./snap/Sentinel (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Astro Plumber (Europe).zip</path>
+		<name>Astro Plumber (Europe)</name>
+		<image>./boxart/Astro Plumber (Europe).png</image>
+		<marquee>./wheel/Astro Plumber (Europe).png</marquee>
+		<video>./snap/Astro Plumber (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Alien 8 (Europe).zip</path>
+		<name>Alien 8 (Europe)</name>
+		<image>./boxart/Alien 8 (Europe).png</image>
+		<marquee>./wheel/Alien 8 (Europe).png</marquee>
+		<video>./snap/Alien 8 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./By Fair Means... or Foul (Europe).zip</path>
+		<name>By Fair Means... or Foul (Europe)</name>
+		<image>./boxart/By Fair Means... or Foul (Europe).png</image>
+		<marquee>./wheel/By Fair Means... or Foul (Europe).png</marquee>
+		<video>./snap/By Fair Means... or Foul (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Caesar the Cat (Europe).zip</path>
+		<name>Caesar the Cat (Europe)</name>
+		<image>./boxart/Caesar the Cat (Europe).png</image>
+		<marquee>./wheel/Caesar the Cat (Europe).png</marquee>
+		<video>./snap/Caesar the Cat (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Crack-Up (Europe).zip</path>
+		<name>Crack-Up (Europe)</name>
+		<image>./boxart/Crack-Up (Europe).png</image>
+		<marquee>./wheel/Crack-Up (Europe).png</marquee>
+		<video>./snap/Crack-Up (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Beverly Hills Cop (Europe).zip</path>
+		<name>Beverly Hills Cop (Europe)</name>
+		<image>./boxart/Beverly Hills Cop (Europe).png</image>
+		<marquee>./wheel/Beverly Hills Cop (Europe).png</marquee>
+		<video>./snap/Beverly Hills Cop (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Elite (Europe).zip</path>
+		<name>Elite (Europe)</name>
+		<image>./boxart/Elite (Europe).png</image>
+		<marquee>./wheel/Elite (Europe).png</marquee>
+		<video>./snap/Elite (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Boulder Dash (Europe).zip</path>
+		<name>Boulder Dash (Europe)</name>
+		<image>./boxart/Boulder Dash (Europe).png</image>
+		<marquee>./wheel/Boulder Dash (Europe).png</marquee>
+		<video>./snap/Boulder Dash (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Fire Track (Europe).zip</path>
+		<name>Fire Track (Europe)</name>
+		<image>./boxart/Fire Track (Europe).png</image>
+		<marquee>./wheel/Fire Track (Europe).png</marquee>
+		<video>./snap/Fire Track (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Gyroscope (Europe).zip</path>
+		<name>Gyroscope (Europe)</name>
+		<image>./boxart/Gyroscope (Europe).png</image>
+		<marquee>./wheel/Gyroscope (Europe).png</marquee>
+		<video>./snap/Gyroscope (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Daley Thompson's Super Test (Europe).zip</path>
+		<name>Daley Thompson's Super Test (Europe)</name>
+		<image>./boxart/Daley Thompson's Super Test (Europe).png</image>
+		<marquee>./wheel/Daley Thompson's Super Test (Europe).png</marquee>
+		<video>./snap/Daley Thompson's Super Test (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./3D Tanx (Europe).zip</path>
+		<name>3D Tanx (Europe)</name>
+		<image>./boxart/3D Tanx (Europe).png</image>
+		<marquee>./wheel/3D Tanx (Europe).png</marquee>
+		<video>./snap/3D Tanx (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars - Return of the Jedi (Europe).zip</path>
+		<name>Star Wars - Return of the Jedi (Europe)</name>
+		<image>./boxart/Star Wars - Return of the Jedi (Europe).png</image>
+		<marquee>./wheel/Star Wars - Return of the Jedi (Europe).png</marquee>
+		<video>./snap/Star Wars - Return of the Jedi (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tarzan (Martech) (Europe).zip</path>
+		<name>Tarzan (Martech) (Europe)</name>
+		<image>./boxart/Tarzan (Martech) (Europe).png</image>
+		<marquee>./wheel/Tarzan (Martech) (Europe).png</marquee>
+		<video>./snap/Tarzan (Martech) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pedro (Europe).zip</path>
+		<name>Pedro (Europe)</name>
+		<image>./boxart/Pedro (Europe).png</image>
+		<marquee>./wheel/Pedro (Europe).png</marquee>
+		<video>./snap/Pedro (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Airwolf (Europe).zip</path>
+		<name>Airwolf (Europe)</name>
+		<image>./boxart/Airwolf (Europe).png</image>
+		<marquee>./wheel/Airwolf (Europe).png</marquee>
+		<video>./snap/Airwolf (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Blockbusters (Domark) (Europe).zip</path>
+		<name>Blockbusters (Domark) (Europe)</name>
+		<image>./boxart/Blockbusters (Domark) (Europe).png</image>
+		<marquee>./wheel/Blockbusters (Domark) (Europe).png</marquee>
+		<video>./snap/Blockbusters (Domark) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Centipede (Superior Software) (Europe).zip</path>
+		<name>Centipede (Superior Software) (Europe)</name>
+		<image>./boxart/Centipede (Superior Software) (Europe).png</image>
+		<marquee>./wheel/Centipede (Superior Software) (Europe).png</marquee>
+		<video>./snap/Centipede (Superior Software) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Green Beret (Europe).zip</path>
+		<name>Green Beret (Europe)</name>
+		<image>./boxart/Green Beret (Europe).png</image>
+		<marquee>./wheel/Green Beret (Europe).png</marquee>
+		<video>./snap/Green Beret (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Yie Ar Kung Fu II (Europe).zip</path>
+		<name>Yie Ar Kung Fu II (Europe)</name>
+		<image>./boxart/Yie Ar Kung Fu II (Europe).png</image>
+		<marquee>./wheel/Yie Ar Kung Fu II (Europe).png</marquee>
+		<video>./snap/Yie Ar Kung Fu II (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Return to Eden (Europe).zip</path>
+		<name>Return to Eden (Europe)</name>
+		<image>./boxart/Return to Eden (Europe).png</image>
+		<marquee>./wheel/Return to Eden (Europe).png</marquee>
+		<video>./snap/Return to Eden (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sim City (Europe).zip</path>
+		<name>Sim City (Europe)</name>
+		<image>./boxart/Sim City (Europe).png</image>
+		<marquee>./wheel/Sim City (Europe).png</marquee>
+		<video>./snap/Sim City (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Harvey Headbanger (Europe).zip</path>
+		<name>Harvey Headbanger (Europe)</name>
+		<image>./boxart/Harvey Headbanger (Europe).png</image>
+		<marquee>./wheel/Harvey Headbanger (Europe).png</marquee>
+		<video>./snap/Harvey Headbanger (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Last Ninja 2, The (Europe).zip</path>
+		<name>Last Ninja 2, The (Europe)</name>
+		<image>./boxart/Last Ninja 2, The (Europe).png</image>
+		<marquee>./wheel/Last Ninja 2, The (Europe).png</marquee>
+		<video>./snap/Last Ninja 2, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Joe Blade 2 (Europe).zip</path>
+		<name>Joe Blade 2 (Europe)</name>
+		<image>./boxart/Joe Blade 2 (Europe).png</image>
+		<marquee>./wheel/Joe Blade 2 (Europe).png</marquee>
+		<video>./snap/Joe Blade 2 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Brian Jack's Superstar Challenge (Europe).zip</path>
+		<name>Brian Jack's Superstar Challenge (Europe)</name>
+		<image>./boxart/Brian Jack's Superstar Challenge (Europe).png</image>
+		<marquee>./wheel/Brian Jack's Superstar Challenge (Europe).png</marquee>
+		<video>./snap/Brian Jack's Superstar Challenge (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Loopz (Europe).zip</path>
+		<name>Loopz (Europe)</name>
+		<image>./boxart/Loopz (Europe).png</image>
+		<marquee>./wheel/Loopz (Europe).png</marquee>
+		<video>./snap/Loopz (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Red Moon (Europe).zip</path>
+		<name>Red Moon (Europe)</name>
+		<image>./boxart/Red Moon (Europe).png</image>
+		<marquee>./wheel/Red Moon (Europe).png</marquee>
+		<video>./snap/Red Moon (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Yie Ar Kung Fu (Europe).zip</path>
+		<name>Yie Ar Kung Fu (Europe)</name>
+		<image>./boxart/Yie Ar Kung Fu (Europe).png</image>
+		<marquee>./wheel/Yie Ar Kung Fu (Europe).png</marquee>
+		<video>./snap/Yie Ar Kung Fu (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tales of the Arabian Nights (Europe).zip</path>
+		<name>Tales of the Arabian Nights (Europe)</name>
+		<image>./boxart/Tales of the Arabian Nights (Europe).png</image>
+		<marquee>./wheel/Tales of the Arabian Nights (Europe).png</marquee>
+		<video>./snap/Tales of the Arabian Nights (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Maze, The (Europe).zip</path>
+		<name>Maze, The (Europe)</name>
+		<image>./boxart/Maze, The (Europe).png</image>
+		<marquee>./wheel/Maze, The (Europe).png</marquee>
+		<video>./snap/Maze, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Doctor Who and the Mines of Terror! (Europe).zip</path>
+		<name>Doctor Who and the Mines of Terror! (Europe)</name>
+		<image>./boxart/Doctor Who and the Mines of Terror! (Europe).png</image>
+		<marquee>./wheel/Doctor Who and the Mines of Terror! (Europe).png</marquee>
+		<video>./snap/Doctor Who and the Mines of Terror! (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chuckie Egg 2 (Europe).zip</path>
+		<name>Chuckie Egg 2 (Europe)</name>
+		<image>./boxart/Chuckie Egg 2 (Europe).png</image>
+		<marquee>./wheel/Chuckie Egg 2 (Europe).png</marquee>
+		<video>./snap/Chuckie Egg 2 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Killapede (Europe).zip</path>
+		<name>Killapede (Europe)</name>
+		<image>./boxart/Killapede (Europe).png</image>
+		<marquee>./wheel/Killapede (Europe).png</marquee>
+		<video>./snap/Killapede (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Cholo (Europe).zip</path>
+		<name>Cholo (Europe)</name>
+		<image>./boxart/Cholo (Europe).png</image>
+		<marquee>./wheel/Cholo (Europe).png</marquee>
+		<video>./snap/Cholo (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Dam Busters, The (Europe).zip</path>
+		<name>Dam Busters, The (Europe)</name>
+		<image>./boxart/Dam Busters, The (Europe).png</image>
+		<marquee>./wheel/Dam Busters, The (Europe).png</marquee>
+		<video>./snap/Dam Busters, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jack and the Beanstalk (Europe).zip</path>
+		<name>Jack and the Beanstalk (Europe)</name>
+		<image>./boxart/Jack and the Beanstalk (Europe).png</image>
+		<marquee>./wheel/Jack and the Beanstalk (Europe).png</marquee>
+		<video>./snap/Jack and the Beanstalk (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chess (Superior Software) (Europe).zip</path>
+		<name>Chess (Superior Software) (Europe)</name>
+		<image>./boxart/Chess (Superior Software) (Europe).png</image>
+		<marquee>./wheel/Chess (Superior Software) (Europe).png</marquee>
+		<video>./snap/Chess (Superior Software) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Hacker, The (Europe).zip</path>
+		<name>Hacker, The (Europe)</name>
+		<image>./boxart/Hacker, The (Europe).png</image>
+		<marquee>./wheel/Hacker, The (Europe).png</marquee>
+		<video>./snap/Hacker, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Time and Magik (Europe).zip</path>
+		<name>Time and Magik (Europe)</name>
+		<image>./boxart/Time and Magik (Europe).png</image>
+		<marquee>./wheel/Time and Magik (Europe).png</marquee>
+		<video>./snap/Time and Magik (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pacman (Europe).zip</path>
+		<name>Pacman (Europe)</name>
+		<image>./boxart/Pacman (Europe).png</image>
+		<marquee>./wheel/Pacman (Europe).png</marquee>
+		<video>./snap/Pacman (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Gauntlet (Europe).zip</path>
+		<name>Gauntlet (Europe)</name>
+		<image>./boxart/Gauntlet (Europe).png</image>
+		<marquee>./wheel/Gauntlet (Europe).png</marquee>
+		<video>./snap/Gauntlet (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Balloon Buster (Europe).zip</path>
+		<name>Balloon Buster (Europe)</name>
+		<image>./boxart/Balloon Buster (Europe).png</image>
+		<marquee>./wheel/Balloon Buster (Europe).png</marquee>
+		<video>./snap/Balloon Buster (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Centipede (Wilsonsoft) (Europe).zip</path>
+		<name>Centipede (Wilsonsoft) (Europe)</name>
+		<image>./boxart/Centipede (Wilsonsoft) (Europe).png</image>
+		<marquee>./wheel/Centipede (Wilsonsoft) (Europe).png</marquee>
+		<video>./snap/Centipede (Wilsonsoft) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mister Freeze (Europe).zip</path>
+		<name>Mister Freeze (Europe)</name>
+		<image>./boxart/Mister Freeze (Europe).png</image>
+		<marquee>./wheel/Mister Freeze (Europe).png</marquee>
+		<video>./snap/Mister Freeze (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Hobbit, The (Europe) (Enhanced).zip</path>
+		<name>Hobbit, The (Europe) (Enhanced)</name>
+		<image>./boxart/Hobbit, The (Europe) (Enhanced).png</image>
+		<marquee>./wheel/Hobbit, The (Europe) (Enhanced).png</marquee>
+		<video>./snap/Hobbit, The (Europe) (Enhanced).mp4</video>
+	</game>
+	<game>
+		<path>./Red Arrows, The (Europe).zip</path>
+		<name>Red Arrows, The (Europe)</name>
+		<image>./boxart/Red Arrows, The (Europe).png</image>
+		<marquee>./wheel/Red Arrows, The (Europe).png</marquee>
+		<video>./snap/Red Arrows, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Raid Over Moscow (Europe).zip</path>
+		<name>Raid Over Moscow (Europe)</name>
+		<image>./boxart/Raid Over Moscow (Europe).png</image>
+		<marquee>./wheel/Raid Over Moscow (Europe).png</marquee>
+		<video>./snap/Raid Over Moscow (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jet Boot Jack (Europe).zip</path>
+		<name>Jet Boot Jack (Europe)</name>
+		<image>./boxart/Jet Boot Jack (Europe).png</image>
+		<marquee>./wheel/Jet Boot Jack (Europe).png</marquee>
+		<video>./snap/Jet Boot Jack (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chess (Computer Concepts) (Europe).zip</path>
+		<name>Chess (Computer Concepts) (Europe)</name>
+		<image>./boxart/Chess (Computer Concepts) (Europe).png</image>
+		<marquee>./wheel/Chess (Computer Concepts) (Europe).png</marquee>
+		<video>./snap/Chess (Computer Concepts) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Repton 2 (Europe).zip</path>
+		<name>Repton 2 (Europe)</name>
+		<image>./boxart/Repton 2 (Europe).png</image>
+		<marquee>./wheel/Repton 2 (Europe).png</marquee>
+		<video>./snap/Repton 2 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Contraption (Europe).zip</path>
+		<name>Contraption (Europe)</name>
+		<image>./boxart/Contraption (Europe).png</image>
+		<marquee>./wheel/Contraption (Europe).png</marquee>
+		<video>./snap/Contraption (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Star Wars (Europe).zip</path>
+		<name>Star Wars (Europe)</name>
+		<image>./boxart/Star Wars (Europe).png</image>
+		<marquee>./wheel/Star Wars (Europe).png</marquee>
+		<video>./snap/Star Wars (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Spy Hunter (Europe).zip</path>
+		<name>Spy Hunter (Europe)</name>
+		<image>./boxart/Spy Hunter (Europe).png</image>
+		<marquee>./wheel/Spy Hunter (Europe).png</marquee>
+		<video>./snap/Spy Hunter (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Lunar Jetman (Europe).zip</path>
+		<name>Lunar Jetman (Europe)</name>
+		<image>./boxart/Lunar Jetman (Europe).png</image>
+		<marquee>./wheel/Lunar Jetman (Europe).png</marquee>
+		<video>./snap/Lunar Jetman (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Robotron (Europe).zip</path>
+		<name>Robotron (Europe)</name>
+		<image>./boxart/Robotron (Europe).png</image>
+		<marquee>./wheel/Robotron (Europe).png</marquee>
+		<video>./snap/Robotron (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Thrust (Europe).zip</path>
+		<name>Thrust (Europe)</name>
+		<image>./boxart/Thrust (Europe).png</image>
+		<marquee>./wheel/Thrust (Europe).png</marquee>
+		<video>./snap/Thrust (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pipeline (Europe).zip</path>
+		<name>Pipeline (Europe)</name>
+		<image>./boxart/Pipeline (Europe).png</image>
+		<marquee>./wheel/Pipeline (Europe).png</marquee>
+		<video>./snap/Pipeline (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Blockbusters (Macsen Software) (Europe).zip</path>
+		<name>Blockbusters (Macsen Software) (Europe)</name>
+		<image>./boxart/Blockbusters (Macsen Software) (Europe).png</image>
+		<marquee>./wheel/Blockbusters (Macsen Software) (Europe).png</marquee>
+		<video>./snap/Blockbusters (Macsen Software) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Impossible Mission (Europe).zip</path>
+		<name>Impossible Mission (Europe)</name>
+		<image>./boxart/Impossible Mission (Europe).png</image>
+		<marquee>./wheel/Impossible Mission (Europe).png</marquee>
+		<video>./snap/Impossible Mission (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Manic Miner (Europe).zip</path>
+		<name>Manic Miner (Europe)</name>
+		<image>./boxart/Manic Miner (Europe).png</image>
+		<marquee>./wheel/Manic Miner (Europe).png</marquee>
+		<video>./snap/Manic Miner (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Sentinel, The (Europe).zip</path>
+		<name>Sentinel, The (Europe)</name>
+		<image>./boxart/Sentinel, The (Europe).png</image>
+		<marquee>./wheel/Sentinel, The (Europe).png</marquee>
+		<video>./snap/Sentinel, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Arkanoid (Europe).zip</path>
+		<name>Arkanoid (Europe)</name>
+		<image>./boxart/Arkanoid (Europe).png</image>
+		<marquee>./wheel/Arkanoid (Europe).png</marquee>
+		<video>./snap/Arkanoid (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Tarzan (Alligata) (Europe).zip</path>
+		<name>Tarzan (Alligata) (Europe)</name>
+		<image>./boxart/Tarzan (Alligata) (Europe).png</image>
+		<marquee>./wheel/Tarzan (Alligata) (Europe).png</marquee>
+		<video>./snap/Tarzan (Alligata) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Superman - The Game (Europe).zip</path>
+		<name>Superman - The Game (Europe)</name>
+		<image>./boxart/Superman - The Game (Europe).png</image>
+		<marquee>./wheel/Superman - The Game (Europe).png</marquee>
+		<video>./snap/Superman - The Game (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jetset Willy (Europe).zip</path>
+		<name>Jetset Willy (Europe)</name>
+		<image>./boxart/Jetset Willy (Europe).png</image>
+		<marquee>./wheel/Jetset Willy (Europe).png</marquee>
+		<video>./snap/Jetset Willy (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Ricochet (Europe).zip</path>
+		<name>Ricochet (Europe)</name>
+		<image>./boxart/Ricochet (Europe).png</image>
+		<marquee>./wheel/Ricochet (Europe).png</marquee>
+		<video>./snap/Ricochet (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Hobbit, The (Europe).zip</path>
+		<name>Hobbit, The (Europe)</name>
+		<image>./boxart/Hobbit, The (Europe).png</image>
+		<marquee>./wheel/Hobbit, The (Europe).png</marquee>
+		<video>./snap/Hobbit, The (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Camelot (Europe).zip</path>
+		<name>Camelot (Europe)</name>
+		<image>./boxart/Camelot (Europe).png</image>
+		<marquee>./wheel/Camelot (Europe).png</marquee>
+		<video>./snap/Camelot (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Hostages (Europe).zip</path>
+		<name>Hostages (Europe)</name>
+		<image>./boxart/Hostages (Europe).png</image>
+		<marquee>./wheel/Hostages (Europe).png</marquee>
+		<video>./snap/Hostages (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Cells and Serpents (Europe).zip</path>
+		<name>Cells and Serpents (Europe)</name>
+		<image>./boxart/Cells and Serpents (Europe).png</image>
+		<marquee>./wheel/Cells and Serpents (Europe).png</marquee>
+		<video>./snap/Cells and Serpents (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bored of the Rings (Europe).zip</path>
+		<name>Bored of the Rings (Europe)</name>
+		<image>./boxart/Bored of the Rings (Europe).png</image>
+		<marquee>./wheel/Bored of the Rings (Europe).png</marquee>
+		<video>./snap/Bored of the Rings (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Samantha Fox Strip Poker (Europe).zip</path>
+		<name>Samantha Fox Strip Poker (Europe)</name>
+		<image>./boxart/Samantha Fox Strip Poker (Europe).png</image>
+		<marquee>./wheel/Samantha Fox Strip Poker (Europe).png</marquee>
+		<video>./snap/Samantha Fox Strip Poker (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chess (Acornsoft) (Europe).zip</path>
+		<name>Chess (Acornsoft) (Europe)</name>
+		<image>./boxart/Chess (Acornsoft) (Europe).png</image>
+		<marquee>./wheel/Chess (Acornsoft) (Europe).png</marquee>
+		<video>./snap/Chess (Acornsoft) (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Nightmare Maze (Europe).zip</path>
+		<name>Nightmare Maze (Europe)</name>
+		<image>./boxart/Nightmare Maze (Europe).png</image>
+		<marquee>./wheel/Nightmare Maze (Europe).png</marquee>
+		<video>./snap/Nightmare Maze (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Indoor Sports (Europe).zip</path>
+		<name>Indoor Sports (Europe)</name>
+		<image>./boxart/Indoor Sports (Europe).png</image>
+		<marquee>./wheel/Indoor Sports (Europe).png</marquee>
+		<video>./snap/Indoor Sports (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Winter Olympics (Europe).zip</path>
+		<name>Winter Olympics (Europe)</name>
+		<image>./boxart/Winter Olympics (Europe).png</image>
+		<marquee>./wheel/Winter Olympics (Europe).png</marquee>
+		<video>./snap/Winter Olympics (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Diamond Mine II (Europe).zip</path>
+		<name>Diamond Mine II (Europe)</name>
+		<image>./boxart/Diamond Mine II (Europe).png</image>
+		<marquee>./wheel/Diamond Mine II (Europe).png</marquee>
+		<video>./snap/Diamond Mine II (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chuckie Egg (Europe).zip</path>
+		<name>Chuckie Egg (Europe)</name>
+		<image>./boxart/Chuckie Egg (Europe).png</image>
+		<marquee>./wheel/Chuckie Egg (Europe).png</marquee>
+		<video>./snap/Chuckie Egg (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Chess (S.C. Askey) (Europe) (Unl).zip</path>
+		<name>Chess (S.C. Askey) (Europe) (Unl)</name>
+		<image>./boxart/Chess (S.C. Askey) (Europe) (Unl).png</image>
+		<marquee>./wheel/Chess (S.C. Askey) (Europe) (Unl).png</marquee>
+		<video>./snap/Chess (S.C. Askey) (Europe) (Unl).mp4</video>
+	</game>
+	<game>
+		<path>./Kane (Europe).zip</path>
+		<name>Kane (Europe)</name>
+		<image>./boxart/Kane (Europe).png</image>
+		<marquee>./wheel/Kane (Europe).png</marquee>
+		<video>./snap/Kane (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Mega Apocalypse (Europe) (Proto).zip</path>
+		<name>Mega Apocalypse (Europe) (Proto)</name>
+		<image>./boxart/Mega Apocalypse (Europe) (Proto).png</image>
+		<marquee>./wheel/Mega Apocalypse (Europe) (Proto).png</marquee>
+		<video>./snap/Mega Apocalypse (Europe) (Proto).mp4</video>
+	</game>
+	<game>
+		<path>./Adventure #1 - Adventureland (Europe).zip</path>
+		<name>Adventure #1 - Adventureland (Europe)</name>
+		<image>./boxart/Adventure #1 - Adventureland (Europe).png</image>
+		<marquee>./wheel/Adventure #1 - Adventureland (Europe).png</marquee>
+		<video>./snap/Adventure #1 - Adventureland (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Hyper Sports (Europe).zip</path>
+		<name>Hyper Sports (Europe)</name>
+		<image>./boxart/Hyper Sports (Europe).png</image>
+		<marquee>./wheel/Hyper Sports (Europe).png</marquee>
+		<video>./snap/Hyper Sports (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Jet-Pac (Europe).zip</path>
+		<name>Jet-Pac (Europe)</name>
+		<image>./boxart/Jet-Pac (Europe).png</image>
+		<marquee>./wheel/Jet-Pac (Europe).png</marquee>
+		<video>./snap/Jet-Pac (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Overdrive (Europe).zip</path>
+		<name>Overdrive (Europe)</name>
+		<image>./boxart/Overdrive (Europe).png</image>
+		<marquee>./wheel/Overdrive (Europe).png</marquee>
+		<video>./snap/Overdrive (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Pole Position (Europe).zip</path>
+		<name>Pole Position (Europe)</name>
+		<image>./boxart/Pole Position (Europe).png</image>
+		<marquee>./wheel/Pole Position (Europe).png</marquee>
+		<video>./snap/Pole Position (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Winter Olympiad '88 (Europe).zip</path>
+		<name>Winter Olympiad '88 (Europe)</name>
+		<image>./boxart/Winter Olympiad '88 (Europe).png</image>
+		<marquee>./wheel/Winter Olympiad '88 (Europe).png</marquee>
+		<video>./snap/Winter Olympiad '88 (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Bubble Bobble! (Europe) (Proto).zip</path>
+		<name>Bubble Bobble! (Europe) (Proto)</name>
+		<image>./boxart/Bubble Bobble! (Europe) (Proto).png</image>
+		<marquee>./wheel/Bubble Bobble! (Europe) (Proto).png</marquee>
+		<video>./snap/Bubble Bobble! (Europe) (Proto).mp4</video>
+	</game>
+	<game>
+		<path>./Commando (Europe).zip</path>
+		<name>Commando (Europe)</name>
+		<image>./boxart/Commando (Europe).png</image>
+		<marquee>./wheel/Commando (Europe).png</marquee>
+		<video>./snap/Commando (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./B.C. Bill (Europe).zip</path>
+		<name>B.C. Bill (Europe)</name>
+		<image>./boxart/B.C. Bill (Europe).png</image>
+		<marquee>./wheel/B.C. Bill (Europe).png</marquee>
+		<video>./snap/B.C. Bill (Europe).mp4</video>
+	</game>
+	<game>
+		<path>./Joe Blade (Europe).zip</path>
+		<name>Joe Blade (Europe)</name>
+		<image>./boxart/Joe Blade (Europe).png</image>
+		<marquee>./wheel/Joe Blade (Europe).png</marquee>
+		<video>./snap/Joe Blade (Europe).mp4</video>
+	</game>
+</gameList>
